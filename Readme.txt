@@ -13,8 +13,4 @@ Extract the files to a folder
 6) Output is also included in Output folder - OutputPlot & (Nodes and Nodesinfo)
 
 Contact: 
-For more details contact (gkkhut@terpmail.umd.edu).
-
-Gunjan Khut
-UID: 115813083
-
+For more details contact Gunjan Khut(gkkhut@terpmail.umd.edu).
